@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Strona Testowa</title>
+
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+    <body>
+        
+        <h1> TEST </h1>
+        <h2> TEST </h2>
+        <h3> TEST </h3>
+        <h4> TEST </h4>
+        <h5> TEST </h5>
+        <P> Przykładowy paragraf </P>
+        <b> Teskt pogrubiony!</b><br>
+        <i> Tekst pochylony </i><br>
+        <u> podkreślenie </u><br>
+        <hr> 
+        <!-- znaczniki standardu HTML 5 -->
+        <ins>Test</ins><br>
+        <del>Test</del><br>
+        <!-- znaczniki standardu HTML 4 -->
+        <u>Test</u><br>
+        <s>Test</s><br>
+        <a href="https://www.google.com/"> Google</a>
+
+        <table>
+            <tr>
+                <td> Adam </td> 
+                <td> Kowal</td>
+            </tr>
+                <td>Zofia</td>
+                <td>Nowak</td>
+
+        <table id="tabela2">
+            <thead>
+                <th class="elementy-th"> Imię</th>
+                <th class="elementy-th"> Nazwisko</th>
+            </thead>
+            <tr>
+                <td class="elementy-td"> Adam </td> 
+                <td class="elementy-td"> Kowal</td>
+            </tr>
+                <td class="elementy-td">Zofia</td>
+                <td class="elementy-td">Nowak</td>
+
+        </table>
+        <p> Co to jest<b title="to są kaskadowe arkusze styli"> CSS</b></p>
+
+
+
+        </table>
+            <div class="div-0">
+                <div class="div-1">
+
+                </div>
+                Testowy Kontener.
+            
+            <p>
+                testowy tekst
+            </p>
+        </div>
+
+        </body>
+</html>
