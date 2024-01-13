@@ -1,0 +1,39 @@
+table{
+                border: 1px solid black; /* obramowanie tabeli */
+                padding: 3px;
+                margin-bottom: 15px;
+            }
+            td{
+                border: 1px solid black;
+                padding: 3px;
+                
+            }
+            #tabela2{
+                border: 1px solid rgb(240, 3, 3); /*obramowanie tabeli */
+            }
+            .elementy-td{
+                color: white;
+                background: black;
+            }
+            .elementy-th{
+                color: white;
+                background: rgb(71, 67, 67);
+            }
+            .div-0{
+                width:200px;
+                height:500px;
+                background-color: gray;
+            }
+
+            .div-1{
+                width: 200px;
+                height: 30px;
+                background-color: black;
+                color: hsla(0, 100%, 55%, 0.897);
+                padding: 15px;
+                text-align: center;
+                
+
+            }
+
+        
